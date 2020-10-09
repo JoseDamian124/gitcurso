@@ -15,6 +15,9 @@
             <Button Content="Contar" Margin="4" Click="Button_Click"/>
         <Button Content="Reiniciar" Margin="4" />
             <Button Content="Hola"/>
+            <Button Content="ADIOS"/>
+            <Button Content="fofofof"/>
+            
         </StackPanel>
         
         
